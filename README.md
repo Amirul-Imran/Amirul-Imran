@@ -1,4 +1,13 @@
 ## Hi there 👋
+My name's Amirul. I'm an electrical engineering graduate who is very passionate in learning Arduino and web development. 
+
+## Projects
+- [Flask-Webapp](https://github.com/Amirul-Imran/vaccination-database-webapp), a web application developed using the Flask framework to keep track of students vaccination status.
+- [Laravel-Ecommerce](https://github.com/Amirul-Imran/laravel-ecommerce), an e-commerce web application developed using the Laravel framework with features such as register, login, cart and orders' list.
+- [Android-Quizapp](https://github.com/Amirul-Imran/quiz-app), an android mobile quiz application that help primary school students to improve their arithmetic and multiplication skills.
+
+## Contact
+You can reach out to me via <amirulimran0131@gmail.com>.
 
 <!--
 **Amirul-Imran/Amirul-Imran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
